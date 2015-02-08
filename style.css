@@ -1,0 +1,29 @@
+div {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:80px;
+  color: white;
+  position:absolute;
+  left:150px;
+  top:200px;
+  
+}
+.post-content {
+
+    opacity: 0.5;
+    top:0;
+    left:0;
+    position: absolute;
+}
+
+.thumbnail{
+    position:relative;
+    
+}
+<style media="screen">
+.sqs-audio-embed {
+  visibility: hidden;
+}
+
+:root {
+  --main-bg-color: brown;
+}
